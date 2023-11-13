@@ -16,3 +16,8 @@ way to track expenses, incomes, and analyze financial habits over time.
 If you encounter any issues while running the application, it might be due to missing Python packages. 
 This application requires certain packages like `pandas` to function properly. Make sure you have all 
 the required packages installed. You can install them using the following command:
+
+## Code Snippets
+<img width="405" alt="Screenshot 2023-11-13 at 23 14 12" src="https://github.com/he-jiaxin/personal-expense-tracking/assets/132515037/f679b901-bade-44f9-927b-9c73edcc3a7f">
+
+<img width="262" alt="Screenshot 2023-11-13 at 23 14 31" src="https://github.com/he-jiaxin/personal-expense-tracking/assets/132515037/4573b98e-1137-4d44-8ed6-e49e4131ffe6">
